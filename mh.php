@@ -81,4 +81,4 @@ for ($i = 0; $i < $iterations; $i++) {
         say(" - Maybe next time", true);
     }
 }
-printf("Winning Probability: %2f\n", ($prize / $iterations));
+printf("Winning Probability: %.2f\n", ($prize / $iterations));
