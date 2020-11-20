@@ -4,12 +4,21 @@ Calculates your winning probability in a Monty Hall Paradox game simulation.
 
 Read more: https://en.wikipedia.org/wiki/Monty_Hall_problem
 
+## Why?
+
+To empirically prove a friend wrong.
+
+## Install
+
+This project requires `php-cli` > 5.4
+
+Just download it and `chmod a+x mh.php`
+
 ## Usage 
 
     ./mh.php [-h] [-l] [-n] [-i <iterations>] [-d <doors>]
 
 ## Options
-
 
 | Option | Description |
 | - | - |
