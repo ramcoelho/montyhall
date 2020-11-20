@@ -8,7 +8,7 @@ Read more: https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 To empirically prove a friend wrong.
 
-## Install
+## Installation
 
 This project requires `php-cli` > 5.4
 
