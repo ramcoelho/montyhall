@@ -14,7 +14,7 @@ Monty Hall Simulation
 Calculates your winning probability in a Monty Hall Paradox game simulation.
 Read more: https://en.wikipedia.org/wiki/Monty_Hall_problem
 
-Usage: {$script} [-h] [-l] [-n] [-i <iterations>] [-d <doors>]
+Usage: {$argv[0]} [-h] [-l] [-n] [-i <iterations>] [-d <doors>]
 
 Where:
   -h, --help          Show this help
